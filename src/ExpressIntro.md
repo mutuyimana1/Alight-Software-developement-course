@@ -38,10 +38,12 @@ app.listen(3000,()=>{
     console.log(`Server is ready`)
 })
 ```
-Save this to an index.jjs filw in your project root folder, and start the server using this command:
+Save this to an index.js file in your project root folder, and start the server using this command:
 
-```node index.js
 ```
-You can open the browser to port 3000 on localhost and you should see the ** Hello World ** message.
-You can send request throuth postman on port 3000 and you should see 
-** Server is ready** in your terminal
+node index.js
+
+```
+You can open the browser to port 3000 on localhost and you should see the **Hello World** message.
+You can send request through postman on port 3000 and you should see 
+**Server is ready** in your terminal
